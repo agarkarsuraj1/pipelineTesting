@@ -1,4 +1,4 @@
-npm install
+npm installl
 result="$?"
 if [ "$result" -eq "127" ]
 then
